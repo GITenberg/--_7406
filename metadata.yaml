@@ -1,0 +1,30 @@
+_repo: --_7406
+_version: 0.0.1
+alternative_title: Cha Jing (A.D.733—A.D.804)
+creator:
+  author:
+    agent_name: Lu, Yu
+    alias: 陸羽
+    birthdate: 733
+    deathdate: 804
+    gutenberg_agent_id: '2458'
+    url: http://www.gutenberg.org/2009/agents/2458
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Lu_Yu
+    - http://zh.wikipedia.org/wiki/%E9%99%B8%E7%BE%BD
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7406'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tea -- China -- Early works to 1800'
+- !lcsh 'Tea -- China -- History'
+- !lcc 'TX'
+- GITenberg
+title: 茶經
+url: http://www.gutenberg.org/ebooks/7406
