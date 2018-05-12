@@ -1,6 +1,9 @@
 _repo: --_7406
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Cha Jing (A.D.733—A.D.804)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lu, Yu
@@ -13,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/Lu_Yu
     - http://zh.wikipedia.org/wiki/%E9%99%B8%E7%BE%BD
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7406#--
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
